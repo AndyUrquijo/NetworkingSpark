@@ -7,7 +7,6 @@ public class LifeSpanNetworkManager : NetworkManager
     void Start ()
     {
         NetworkUser hola;
-        hola.
 	}
 	
 	void Update () {
